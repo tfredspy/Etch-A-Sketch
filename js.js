@@ -3,7 +3,6 @@ var grid = document.querySelector('#grid');
 var gridItems;
 const resetBtn = document.querySelector('#reset').addEventListener('click', reset);
 const customBtn = document.querySelector('#custom').addEventListener('click', custom);
-const colorBtn = document.querySelector('#rgb').addEventListener('click', color);
 const gridBtn = document.querySelector('#sixteen').addEventListener('click', gridMake);
 
 function makeGrid(rows, columns){
