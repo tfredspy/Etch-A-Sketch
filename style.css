@@ -40,6 +40,7 @@ body{
     position: absolute;
     top: 85%;
     left: 35%;
+    width: 580px;
 }
 
 button{
@@ -47,6 +48,7 @@ button{
     width: 100px;
     font-size: 20px;
     margin: 20px;
+    margin-right: 70px;
 }
 
 #top{

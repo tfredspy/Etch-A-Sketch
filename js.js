@@ -34,11 +34,6 @@ function custom(){
     makeGrid(size, size);
 }
 
-function color(){
-    var color = prompt('Color: ');
-    
-}
-
 function gridMake(){
     makeGrid(16, 16);
 }
